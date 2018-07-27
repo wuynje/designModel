@@ -1,5 +1,6 @@
 package strategyModel;
 
 public interface IcarSpeed {
-    public double getSpeed();
+    //获取车的速度
+    double getSpeed();
 }
